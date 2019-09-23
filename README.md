@@ -10,7 +10,7 @@ In the start state a gif is loaded to the scene for the title of the game, a par
 
 In the selection state the player can select a spaceship of their choice which all differ by their bullets' texture and dimensions.
 
-In the start level state the player is essentially allowed to get started before beginning the level in question. Levels are designed.
+In the start level state the level gets announced while the player is allowed to get started before beginning the level in question. Levels are designed.
 procedurally as Enemies become more agressive (i.e more variety of enemies, increase of their speed, shooting abilities etc).
 
 In the play state the spaceship moves freely in space collecting coins/medals and avoids attacking enemies while shooting against them.
@@ -39,7 +39,7 @@ Buttons - For mobile experience.
 
 Gifs - Title.
 
-Tweens - For fading in and out transitions.
+Timers & Tweens - For fading in/out transitions and tweening the position for level announcements
 
 State Machine - To manage the various states.
 
