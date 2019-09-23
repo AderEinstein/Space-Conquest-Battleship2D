@@ -1,7 +1,7 @@
 # Space Conquest Battleship2D
 
 A buoyant space exploration/shooting game. 
-All the pieces are put together in this game to test your spatial awareness, reflexes, and speed while providing an ultimate fun experience.
+All the pieces are put together in this game to test your spatial awareness, reflexes, and speed while providing an ultimate fun experience!
 
 # Game States
 The game consists of a start, spaceship selection, start level, play , game over, enter highscore and a high score states in between which the user can easily navigate by following prompts or using buttons implemented on the screen.
@@ -10,8 +10,7 @@ In the start state a gif is loaded to the scene for the title of the game, a par
 
 In the selection state the player can select a spaceship of their choice which all differ by their bullets' texture and dimensions.
 
-In the start level state the player is essentially allowed to get started before beginning the level itself. Levels are designed.
-
+In the start level state the player is essentially allowed to get started before beginning the level in question. Levels are designed.
 procedurally as Enemies become more agressive (i.e more variety of enemies, increase of their speed, shooting abilities etc).
 
 In the play state the spaceship moves freely in space collecting coins/medals and avoids attacking enemies while shooting against them.
