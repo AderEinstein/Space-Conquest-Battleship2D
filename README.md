@@ -39,7 +39,9 @@ Buttons - For mobile experience.
 
 Gifs - Title.
 
-Timers & Tweens - For fading in/out transitions and tweening the position for level announcements
+Tweens - For fading in/out transitions and tweening the position for level announcements
+
+Timers - For attributing various durations to our powerup collection, (enemy) shooting ability and state transitions.
 
 State Machine - To manage the various states.
 
